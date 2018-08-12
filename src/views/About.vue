@@ -6,7 +6,7 @@
     </group>
   </div>
 </template>
-
+ 
 <script>
 import { Group, Cell, Calendar  } from 'vux'
 

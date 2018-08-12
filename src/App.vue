@@ -18,7 +18,6 @@
   margin-top: 60px;
 }
 </style>
-
 <style lang="less">
   @import '~vux/src/styles/reset.less';
 </style>

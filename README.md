@@ -1,5 +1,7 @@
 # cli3_x
 
+vue/cli3.x + vux + less 项目配置
+
 ## Project setup
 ```
 npm install
